@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music Streamer</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="categories">Categories</string>
+    <string name="TODO">TODO</string>
+    <string name="english">English</string>
+    <string name="todo">TODO</string>
+</resources>

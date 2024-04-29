@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743693462534",
+    "project_id": "music-streamer-790e8",
+    "storage_bucket": "music-streamer-790e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743693462534:android:311a9496bc6c26734c6787",
+        "android_client_info": {
+          "package_name": "com.example.musicstreamer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYzX6hK6Sg_0pXo9eEWl6ViW5TbkyxrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
